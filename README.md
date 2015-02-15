@@ -47,8 +47,8 @@ Replicate the following behavior using angular.
 
 ## Notes
 
-Notes go here...
+Hints: create two variables on your controller scope called $scope.buttonText and $scope.isLoading. Use ng-bind to bind your buttonText to the button and ng-disabled to controll whether or not the button is disabled. You can use $timeout to reset the button back to its regular state after 4 seconds.
 
 ## Additional Resources
 
-* Read []()
+* You can use [angular-tempalte](https://github.com/TIY-Austin-Front-End-Engineering/angular-template) to get started.
