@@ -51,4 +51,4 @@ Hints: create two variables on your controller scope called $scope.buttonText an
 
 ## Additional Resources
 
-* You can use [angular-tempalte](https://github.com/TIY-Austin-Front-End-Engineering/angular-template) to get started.
+* You can use [angular-template](https://github.com/TIY-Austin-Front-End-Engineering/angular-template) to get started.
